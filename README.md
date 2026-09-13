@@ -10,7 +10,7 @@ First, open the Github mobile app and create a private repository named "Egg" (C
 
 ![Egg](Images/EggPage.jpg)
 
-After you hit the insane chance, you will be put in this page with music (Genuinely I think that it should be put somewhere we can listen to it. Maybe I'll upload it here later. If I did, "Yes" will be here: No)
+After you hit the insane chance, you will be put in this page with music (Genuinely I think that it should be put somewhere we can listen to it. Maybe I'll upload it here later. If I did, "Yes" will be here: Yes)
 
 You have to tap on the tree. Once you do, you will have some text appear like dialogue. Here's all the text.
 
