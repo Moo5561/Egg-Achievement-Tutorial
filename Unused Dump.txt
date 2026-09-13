@@ -1,0 +1,17 @@
+okay so i found more of this, i'll just dump them here or something
+
+UNUSED.TXT (original)
+[
+hello? is anybody there? can you hear me? it's so dark here...
+I dont think anyone's here... what happened? why am I here?
+please, if you can hear me, say something!
+]
+
+Unused_2.txt (seems like they cleaned up the filename or something)
+[
+I heard something. talking. there's someone here. where are they?
+wait, I've never seen that tree before...
+I'm going to investigate the tree to see if anyone's there.
+]
+
+yeah i think this definitely has to relate to the egg. 
